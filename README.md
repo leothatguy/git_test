@@ -1,2 +1,2 @@
-# gut_test
+# git_test
 My test GitHub repo
